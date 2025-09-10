@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+### Education 
+- EWHA womans university B.S. in Computer Science and Engineering (2023.03.01~) 
+
+
 ### OpenSource contributions
 - argoproj-labs/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
 
@@ -9,9 +14,8 @@
 ### Experience 
 - [AWS Cloud Club](https://github.com/aws-cloud-clubs) Captain
 - [Cloud Club](https://github.com/cloud-club) 7,8th Member
-- [Depromeet](https://github.com/depromeet) 17th server developer 
-- CEOS 20th Backend developer 
-
+- [Depromeet](https://github.com/depromeet) 17th server developer
+- CEOS 20th Backend developer
 <!--
 **juanxiu/juanxiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
