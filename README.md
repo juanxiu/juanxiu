@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### openSource contributions
-- argoproj/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
+### OpenSource contributions
+- argoproj-labs/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
 
 ### Experience 
 - [AWS Cloud Club](https://github.com/aws-cloud-clubs) Captain
