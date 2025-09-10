@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### openSource contributions
+- argoproj/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
+
+### Experience 
+- AWS Cloud Club Captain
+- Cloud Club 7th Member
+- Depromeet 17th server developer 
+- CEOS 20th Backend developer 
+
 <!--
 **juanxiu/juanxiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
