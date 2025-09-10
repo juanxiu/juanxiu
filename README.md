@@ -12,7 +12,7 @@
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2ebd45ed-654f-498f-9435-aade9be9ee3d/public_url)
 
 ### Experience 
-- [AWS Cloud Club](https://github.com/aws-cloud-clubs) Captain
+- [AWS Cloud Club](https://builder.aws.com/connect/community/cloud-clubs#directory) Captain
 - [Cloud Club](https://github.com/cloud-club) 7,8th Member
 - [Depromeet](https://github.com/depromeet) 17th server developer
 - [CEOS](https://ceos-sinchon.com/) 20th Backend developer
