@@ -3,6 +3,9 @@
 ### OpenSource contributions
 - argoproj-labs/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
 
+### Certifications
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2ebd45ed-654f-498f-9435-aade9be9ee3d/public_url)
+
 ### Experience 
 - [AWS Cloud Club](https://github.com/aws-cloud-clubs) Captain
 - [Cloud Club](https://github.com/cloud-club) 7,8th Member
