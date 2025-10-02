@@ -11,6 +11,7 @@
 
 ### Certifications
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2ebd45ed-654f-498f-9435-aade9be9ee3d/public_url)
+- SQL Developer 
 
 ### Experience 
 - [AWS Cloud Club](https://builder.aws.com/connect/community/cloud-clubs#directory) Captain
