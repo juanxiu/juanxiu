@@ -6,7 +6,8 @@
 
 
 ### OpenSource contributions
-- argoproj-labs/argo-agent - PR #[549](https://github.com/argoproj-labs/argocd-agent/pull/549)
+- argoproj-labs/argo-agent - PR [#549](https://github.com/argoproj-labs/argocd-agent/pull/549)
+- argoproj-labs/argo-agent - PR [#547](https://github.com/argoproj-labs/argocd-agent/pull/574)
 
 ### Certifications
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2ebd45ed-654f-498f-9435-aade9be9ee3d/public_url)
