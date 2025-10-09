@@ -9,6 +9,7 @@
 - argoproj-labs/argo-agent - PR [#549](https://github.com/argoproj-labs/argocd-agent/pull/549)
 - argoproj-labs/argo-agent - PR [#547](https://github.com/argoproj-labs/argocd-agent/pull/574)
 - argoproj-labs/argo-agent - PR [#603](https://github.com/argoproj-labs/argocd-agent/pull/603)
+- argoproj-labs/argo-agent - PR [#607](https://github.com/argoproj-labs/argocd-agent/pull/607)
 
 
 ### Certifications
