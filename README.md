@@ -20,7 +20,9 @@
 - [AWS Cloud Club](https://builder.aws.com/connect/community/cloud-clubs#directory) Captain
 - [Cloud Club](https://github.com/cloud-club) 7,8th Member
 - [Depromeet](https://github.com/depromeet) 17th server developer
+- OSSCA 2025 Argoproj Mentee 
 - [CEOS](https://ceos-sinchon.com/) 20th Backend developer
+- GDGoC Ewha 7th Server Core member
 <!--
 **juanxiu/juanxiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
