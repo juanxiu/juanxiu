@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- Email: dfh56541@gmail.com
 
 ### Education 
 - EWHA womans university B.S. in Computer Science and Engineering (2023.03.01~) 
