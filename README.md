@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - Email: dfh56541@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yeonsoo-kim-a70b68286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Tech blog: https://juanxiu.tistory.com/m/
 
 ### Education 
 - EWHA womans university B.S. in Computer Science and Engineering (2023.03.01~) 
